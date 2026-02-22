@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner2.png" height=400 width=800><br><br>
+  <img src="https://raw.githubusercontent.com/owo-dusk/.github/main/profile/assets/banner2.png" height=400 width=800><br><br>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=1200&pause=2000&color=AAB6F7&center=true&width=435&lines=Welcome+to+OwO-Dusk!" alt="Typing SVG" /></a>
 </div>
