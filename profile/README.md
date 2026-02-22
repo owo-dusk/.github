@@ -17,5 +17,5 @@ And our discord server - https://discord.gg/9gKxeNTw23 <br><br>
 
 Enjoy this cool banner that was just sitting there with no use:<br>
 <div align="center">
-<img src="assets/battle_art.png" height=450 width=800>
+<img src="https://raw.githubusercontent.com/owo-dusk/.github/main/profile/assets/battle_art.png" height=450 width=800>
 </div>
