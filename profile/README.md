@@ -19,3 +19,13 @@ Enjoy this cool banner that was just sitting there with no use:<br>
 <div align="center">
 <img src="https://raw.githubusercontent.com/owo-dusk/.github/main/profile/assets/battle_art.png" height=450 width=800>
 </div>
+
+---
+**DONATE**
+
+This project will always remain free and opensourced. If you have found this project helpful, a donation will be highly appriciated!
+
+Litecoin (LTC) - ```La9tPWkcJqhhFpjA8EYudphawDCCUVapJV```
+USDT (TRX network / TRC20) - ```TFdDA8hWAXQZbBwET3FbR1C5bG8qEiNirP```
+
+Thanks in advance! DM me on Discord witch transaction id and I'll give a donator role!
