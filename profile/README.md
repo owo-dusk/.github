@@ -25,7 +25,7 @@ Enjoy this cool banner that was just sitting there with no use:<br>
 
 This project will always remain free and opensourced. If you have found this project helpful, a donation will be highly appriciated!
 
-Litecoin (LTC) - ```La9tPWkcJqhhFpjA8EYudphawDCCUVapJV```
-USDT (TRX network / TRC20) - ```TFdDA8hWAXQZbBwET3FbR1C5bG8qEiNirP```
+Litecoin (LTC) - ```wait ill update soon```
+USDT (TRX network / TRC20) - ```wait ill update soon```
 
 Thanks in advance! DM me on Discord witch transaction id and I'll give a donator role!
